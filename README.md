@@ -20,7 +20,7 @@ This is the codebase for database setup and DB utils for Text2SQL solver and Cha
 
 ### Page
 
-- Host the Chatbot via steamlit
+- Host the Chatbot via streamlit
 
 ### Trainer
 
